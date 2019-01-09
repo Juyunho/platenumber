@@ -1,7 +1,7 @@
-**Development of a Streaming Platform for License Plate Recognition Service based on Machine Learning
+Development of a Streaming Platform for License Plate Recognition Service based on Machine Learning
 
 
-***will update aperiodically
+will update aperiodically
 
 
-**Thanks for Matthewearl/deep-anpr
+Thanks for Matthewearl/deep-anpr
